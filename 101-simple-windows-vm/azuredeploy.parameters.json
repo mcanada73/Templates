@@ -17,7 +17,7 @@
     "location": {
       "value": "East US"
     },
-    "sizeOfDiskInGB": {
+    "sizeOfEachDataDiskInGB": {
       "value": "20"
   }
     }
